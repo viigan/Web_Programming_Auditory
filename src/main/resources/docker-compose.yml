@@ -1,0 +1,17 @@
+#version: "3.8"
+#services:
+#  wp-db:
+#    # Create a service named wp-db.
+#    image: postgres:15
+#    container_name: postgres_db
+#    # Environment variables for PostgreSQL setup
+#    environment:
+#      - POSTGRES_USER=vigan
+#      - POSTGRES_PASSWORD=vigan
+#      - POSTGRES_DB=e-shop
+#    # Maps port 9094 on localhost to port 5432 on the container
+#    ports:
+#      - "9097:5432"
+#    # Persist database data using a volume
+#    volumes:
+#      - ./postgres-data:/var/lib/postgresql/data
