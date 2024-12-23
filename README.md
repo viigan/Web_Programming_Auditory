@@ -1,10 +1,5 @@
 
-# WEB PROGRAMMING COURSE PROJECT 2024-2025
-
-
-## Contributors:
-- Ana Todorovska MSc
-- Darko Sasanski
-- Elena Atanasoska
+# WEB PROGRAMMING COURSE PROJECT 2024-2025 
+# Faculty of Computer Science and Engineering (FINKI)
 
 
